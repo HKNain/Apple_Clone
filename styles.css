@@ -3,12 +3,18 @@
     padding: 0px 0px 0px 0px;
 }
 
+button {
+    cursor: pointer;
+}
+
 #navbar {
     height: 2.75vw;
     width: 100vw;
     background-color: #171718;
     position: sticky;
     top: 0vh;
+    transition: height 0.5s;
+    position: absolute;
 }
 
 
