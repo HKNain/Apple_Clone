@@ -22,3 +22,4 @@
       navbar.style.position = 'absolute';
     }
   });
+  
