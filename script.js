@@ -23,3 +23,6 @@
     }
   });
   
+  function openPage() {
+    window.location.href = "index-store.html"; // Replace with your target URL
+}
